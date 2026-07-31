@@ -294,10 +294,10 @@ Possible enhancements:
 ---
 # Conclusion
 
-The Smart Expense Tracker API successfully meets the requirements of the Diligent Software Engineering Apprenticeship 2026 Take-Home Assignment. The project demonstrates a clean, modular, and well-tested RESTful API built with FastAPI, following good software engineering practices and providing a solid foundation for future enhancements.
+- The Smart Expense Tracker API successfully meets the requirements of the Diligent Software Engineering Apprenticeship 2026 Take-Home Assignment. The project demonstrates a clean, modular, and well-tested RESTful API built with    FastAPI, following good software engineering practices and providing a solid foundation for future enhancements.
 ---
 # Author
 
-**Gaddapara Chandana**
+***Gaddapara Chandana***
 
-**Diligent Software Engineering Apprenticeship 2026 Candidate**
+***Diligent Software Engineering Apprenticeship 2026 Candidate***
