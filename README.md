@@ -221,7 +221,7 @@ HTTP Status:
 
 Screenshot:
 
-![Create Expense 201 Response](Screen shots/create-expense-201.png)
+![Create Expense 201 Response]([Screen shots/create-expense-201.png](https://github.com/chandana-0/The-Assignment-Smart-Expense-Tracker-API/blob/main/Screen%20shots/create-expense-201.png))
 ---
 
 # Screenshots
