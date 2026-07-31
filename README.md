@@ -221,7 +221,8 @@ HTTP Status:
 
 Screenshot:
 
-![Create Expense 201 Response]([Screen shots/create-expense-201.png](https://github.com/chandana-0/The-Assignment-Smart-Expense-Tracker-API/blob/main/Screen%20shots/create-expense-201.png))
+![Create Expense 201 Response](Screen%20shots/create-expense-201.png)
+
 ---
 
 # Screenshots
@@ -230,20 +231,21 @@ Screenshot:
 
 VS Code Explorer showing the organized project structure.
 
-![Project Structure](Screen shots/project-structure.png)
+![Project Structure](Screen%20shots/project-structure.png)
+
 ---
 
 ## Swagger API Documentation
 
 Interactive API documentation provided by FastAPI Swagger UI.
 
-![Pytest Results](Screen shots/pytest-result.png)---
+![Swagger UI](Screen%20shots/swagger-ui.png)
 
 ## Test Execution
 
 Automated tests executed successfully using Pytest.
 
-![Pytest Results](screenshots/pytest-result.png)
+![Pytest Results](Screen%20shots/pytest-result.png)
 
 ---
 
